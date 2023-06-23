@@ -139,6 +139,7 @@ const Game =(() => {
         
 Board.clear()
 gameOver = false
+currentPlayerIndex = 0
         
 }
 
